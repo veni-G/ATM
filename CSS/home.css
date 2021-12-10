@@ -1,0 +1,26 @@
+ body{
+     background: #a5d6a7;
+     text-align: center;
+     justify-content: center;
+     display: flex;
+     flex-direction: column;
+       
+}
+button{
+    
+    background: floralwhite;
+    width: 200px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 43%;
+    margin-top: 20px;
+    a:hover{
+    color:greenyellow;
+    
+}
+.text{
+    text-decoration: none;
+}
+div:hover{
+    background: gray;
+}
